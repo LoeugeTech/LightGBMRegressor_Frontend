@@ -50,7 +50,7 @@ The Streamlit app will open in a browser window at http://localhost:8501.
 
 ## Usage
 Streamlit Frontend
-![Streamlit Frontend Image](src/frontend_app.png)
+![Streamlit Frontend Image](src/frontend_app1.png)
 
 - Input insurance features in the provided fields.
 - Click the Predict button to get the prediction.
